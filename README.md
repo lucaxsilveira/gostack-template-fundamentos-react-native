@@ -27,7 +27,7 @@
 
 ## Things the GoMarketplace can do:
 
-* List some produtcts.
+* List products.
 * Add products to card.
 * Remove products to card.
 
