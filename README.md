@@ -4,14 +4,21 @@
     <img alt="GoMarketplace" title="Go Marketplace" src="/.github/logo@3x.png" width="450">
   </a>
 </p>
+
 <p align="center">
-<a>
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/lucaxsilveira/gostack-template-fundamentos-react-native?color=%2304D361">
+
+  <a href="https://lucassilveira.dev">
+    <img alt="Made by Lucas Silveira" src="https://img.shields.io/badge/made%20by-Lucas Silveira-%2304D361">
+  </a>
+
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
+
+  <a>
     <img alt="GitHub stars" src="https://img.shields.io/github/stars/lucaxsilveira/gostack-template-fundamentos-react-native?style=social">
 </a>
-<a>
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/lucaxsilveira?style=social">
-</a>
 </p>
+
 
 
 <p align="center">
@@ -55,8 +62,11 @@ Runs the application on iOS Simultador.<br />
 ### `yarn test`
 Runs the application tests.<br />
 
+### Challenge
+The full [description](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-fundamentos-react-native)
 
 ## Acknowledgments
 
 Project made with [Rocketseat](https://rocketseat.com.br/), thanks for all 💜.<br /> 
 Design by [Rocketseat](https://rocketseat.com.br/) as well.
+
